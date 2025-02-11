@@ -1,10 +1,11 @@
+
 <p align="center"><b>Sobre mim</b></p>
 
 <p align="left">
   
-- 👦 Eu sou <strong>André Luís</strong> de <strong>Pernambuco</strong>
+- 👦 Eu sou <strong>_André Luís_</strong> de <strong>_Pernambuco_</strong>
 
-- 🔭 <strong>Informações sobre sua faculdade/curso</strong>
+- 🔭 <strong>Cursando Análise de Desenvolvimento de Sistemas</strong>
 
 - 🌱 <strong>Informaçẽos sobre o que você está estudando no momento (Áreas, linguagens)</strong>
 
